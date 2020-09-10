@@ -13,6 +13,15 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\푼거">
+      <UniqueIdentifier>{351c046c-41ac-417d-8bc7-d265185a4654}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\푼거\bfs/dfs">
+      <UniqueIdentifier>{7d11bfb6-9f82-40ae-bcc2-8dd984f537f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\푼거\Greedy">
+      <UniqueIdentifier>{ea13344e-5c79-4cc1-9af8-8e067ab8152d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -23,8 +32,26 @@
     <ClCompile Include="pch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2839.cpp">
+    <ClCompile Include="2217.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1541.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1946.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2178.cpp">
+      <Filter>소스 파일\푼거\bfs/dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="1260.cpp">
+      <Filter>소스 파일\푼거\bfs/dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="2606.cpp">
+      <Filter>소스 파일\푼거\bfs/dfs</Filter>
+    </ClCompile>
+    <ClCompile Include="2839.cpp">
+      <Filter>소스 파일\푼거\Greedy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
