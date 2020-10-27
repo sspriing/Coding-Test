@@ -22,6 +22,12 @@
     <Filter Include="소스 파일\푼거\Greedy">
       <UniqueIdentifier>{ea13344e-5c79-4cc1-9af8-8e067ab8152d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\solved.ac">
+      <UniqueIdentifier>{847ee6b7-c0d1-4e7e-85ae-8a13dd0d739d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\solved.ac\class1">
+      <UniqueIdentifier>{7d029296-cf7e-435e-a132-8e30375e1dd2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -52,6 +58,33 @@
     </ClCompile>
     <ClCompile Include="2839.cpp">
       <Filter>소스 파일\푼거\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1008.cpp">
+      <Filter>소스 파일\solved.ac\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="1330.cpp">
+      <Filter>소스 파일\solved.ac\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2438.cpp">
+      <Filter>소스 파일\solved.ac\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2557.cpp">
+      <Filter>소스 파일\solved.ac\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2562.cpp">
+      <Filter>소스 파일\solved.ac\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2675.cpp">
+      <Filter>소스 파일\solved.ac\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2739.cpp">
+      <Filter>소스 파일\solved.ac\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2920.cpp">
+      <Filter>소스 파일\solved.ac\class1</Filter>
+    </ClCompile>
+    <ClCompile Include="8958.cpp">
+      <Filter>소스 파일\solved.ac\class1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
